@@ -1,0 +1,62 @@
+body {
+    background-image: url("../images/texturetastic_gray.png")
+}
+
+.navbar {
+    font-family: 'Montserrat', sans-serif;
+    border: none; 
+    color: #179B99; 
+}
+
+hr {
+    border-color: #179B99;
+    border-width: 2px; 
+}
+
+h2 {
+    font-family: 'Slabo 27px', serif;
+    color: #179B99;
+}
+
+h3 {
+    font-style: italic; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 130%; 
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5em; 
+    font-size: 16px; 
+}
+
+#main-content {
+    background-color: #fff; 
+}
+
+#sidebar {
+    background-color: #fff; 
+}
+
+.profilepic {
+    margin: 0px 20px 5px 0px; 
+}
+
+.portfolioimg {
+    margin: 20px; 
+}
+
+.caption { 
+    position: absolute; 
+    background-color: #179B99; 
+    color: #fff; 
+    top: 45%;
+    left: 20px;
+    width: 100%;
+    padding: 10px;
+    text-align: center;  
+}
+
+
+
+
